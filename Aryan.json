@@ -1,0 +1,22 @@
+[
+    {
+        "Year":"2022-present",
+        "Qualification":"B.Tech",
+        "College":"Malla Reddy University",
+        "Degreee":"COmputer Scinece and Technology",
+        "Score":"8.0"
+    },
+    {
+        "Year":"2022",
+        "Qualification":"Intermediate",
+        "College":"Narayana Junior College",
+        "Course":"MPC",
+        "Score":"94.1"
+    },
+    {
+        "Year":"2020",
+        "Qualification":"Secondary Education",
+        "College":"Narayana School",
+        "Score":"10.0"
+    }
+]
